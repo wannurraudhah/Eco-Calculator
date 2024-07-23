@@ -6,3 +6,4 @@ Programming Technique II
 
   Each week, the Eco-Calculator will present motivational words and calculate the contribution scores for each student. This allows students to understand their performance in recycling and how effectively they are contributing to SDG 12.
 
+  This project also highlights key concepts in C++ programming, including association, aggregation, composition, inheritance, and polymorphism. Through the development of the Eco-Calculator, students gain practical experience in implementing these fundamental object-oriented programming principles.
